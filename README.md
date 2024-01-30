@@ -3,7 +3,7 @@ heading max ada 6
 ## Hello this is mark down
 <!--ini coment--->
 ### Hello this is mark down
-**Ini untuk bold ya** *kalau ini italic or italiano*
+**Ini untuk bold ya** *kalau ini italic or italianoo*
 #### Hello this is mark down
 [ini untuk hyperlink](https://google.com)
 ##### Hello this is mark down
